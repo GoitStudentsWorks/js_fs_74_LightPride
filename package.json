@@ -2,10 +2,10 @@
   "name": "Cinemania",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://LightPride.github.io/Cinemania",
+  "homepage": "https://GoitStudentsWorks.github.io/js_fs_74_LightPride",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Cinemania/"
+    "build": "parcel build src/*.html --public-url /js_fs_74_LightPride/"
   },
   "repository": {
     "type": "git",
